@@ -1,0 +1,211 @@
+{
+    "characters": [
+        {
+            "name": "Shinnosuke Nohara",
+            "age": "5 years",
+            "description": "Shinnosuke, also known as Shinchan, is the main protagonist of the series. He is a mischievous and energetic 5-year-old boy with a wild imagination. He loves to play pranks, is fond of candy and snacks, and has a peculiar way of talking that often gets him into funny situations.",
+            "family": {
+                "parents": {
+                    "father": "Hiroshi Nohara",
+                    "mother": "Mitsi Nohara"
+                },
+                "sister": "Himawari Nohara"
+            },
+            "friends": [
+                "Kazama",
+                "Nene Sakurada",
+                "Masao Sato",
+                "Bo Suzuki",
+                "Ai Suotome"
+            ],
+            "hobbies": [
+                "Drawing inappropriate sketches"
+            ],
+            "favorite_things": {
+                "snack": "Chocobi",
+                "toy": "Action Kamen"
+            },
+            "image": "/images/shinchan.jpg"
+        },
+        {
+            "name": "Hiroshi Nohara",
+            "age": "35 years",
+            "description": "Hiroshi is Shinchan's caring and hardworking father. He works at the Kasukabe Defense Force and often faces humorous challenges at home, thanks to Shinchan's antics. He loves his family and enjoys spending time with them whenever he can.",
+            "hobbies": [
+                "Fishing",
+                "Watching baseball"
+            ],
+            "family": {
+                "wife": "Mitsi Nohara",
+                "children": [
+                    "Shinnosuke Nohara",
+                    "Himawari Nohara"
+                ]
+            },
+            "image": "/images/harry.jpg"
+        },
+        {
+            "name": "Mitsi Nohara",
+            "age": "32 years",
+            "description": "Mitsi is Shinchan's patient and loving mother. She manages the household chores while dealing with Shinchan's playful mischief. Misae is a caring and devoted mother who tries her best to provide a loving home for her family.",
+            "hobbies": [
+                "Cooking",
+                "Shopping"
+            ],
+            "family": {
+                "husband": "Hiroshi Nohara",
+                "children": [
+                    "Shinnosuke Nohara",
+                    "Himawari Nohara"
+                ]
+            },
+            "image": "/images/mitsi.png"
+        },
+        {
+            "name": "Himawari Nohara",
+            "age": "1 year",
+            "description": "Himawari is Shinchan's adorable younger sister. Despite being a baby, she sometimes displays intelligence beyond her years. She is often amused by her brother's antics and enjoys spending time with her family.",
+            "hobbies": [
+                "Babbling",
+                "Playing with toys"
+            ],
+            "family": {
+                "parents": {
+                    "father": "Hiroshi Nohara",
+                    "mother": "Mitsi Nohara"
+                },
+                "brother": "Shinnosuke Nohara"
+            },
+            "image": "/images/himawari.jpg"
+        },
+        {
+            "name": "Shiro",
+            "age": "4 years",
+            "description": "Shiro is a white pup Shinchan found in a cardboard box. While he is a beloved member of the family, he is the subject of neglect thanks to his owner's forgetfulness and short attention-span. He is a very intelligent dog, often presenting logic and intellect that surpasses his human owners. An oddly human-like dog, he is very responsible and painstakingly careful.",
+            "image": "/images/shiro.png"
+        },
+        {
+            "name": "Kazama",
+            "age": "5 years",
+            "description": "Kazama is one of Shinchan's classmates and friends. He is a smart and studious boy who often finds himself at odds with Shinchan's mischievous behavior. Despite their differences, they share a strong bond of friendship.",
+            "hobbies": [
+                "Studying",
+                "Reading"
+            ],
+            "friends": [
+                "Shinnosuke Nohara",
+                "Nene Sakurada",
+                "Masao Sato",
+                "Bo Suzuki",
+                "Ai Suotome"
+            ],
+            "image": "/images/kazama.jpg"
+        },
+        {
+            "name": "Nene Sakurada",
+            "age": "5 years",
+            "description": "Nene is another one of Shinchan's friends and classmates. She is a kind-hearted and sensitive girl who enjoys spending time with her friends. She often joins in on Shinchan's adventures and has a crush on him.",
+            "hobbies": [
+                "Drawing",
+                "Singing"
+            ],
+            "friends": [
+                "Shinnosuke Nohara",
+                "Kazama",
+                "Masao Sato",
+                "Bo Suzuki",
+                "Ai Suotome"
+            ],
+            "image": "/images/nene.webp"
+        },
+        {
+            "name": "Masao Sato",
+            "age": "5 years",
+            "description": "Masao is one of Shinchan's close friends and classmates. He is a timid and gentle boy who is easily scared by Shinchan's pranks but remains a loyal friend. He cares deeply for his friends and is often seen with Bo.",
+            "hobbies": [
+                "Playing with stuffed animals",
+                "Collecting insects"
+            ],
+            "friends": [
+                "Shinnosuke Nohara",
+                "Kazama",
+                "Nene Sakurada",
+                "Bo Suzuki",
+                "Ai Suotome"
+            ],
+            "image": "/images/masao.jpg"
+        },
+        {
+            "name": "Bo Suzuki",
+            "age": "5 years",
+            "description": "Bo is a friendly and easygoing boy who is often seen with Masao. He enjoys participating in various activities with his friends and often joins Shinchan and the gang in their adventures.",
+            "hobbies": [
+                "Skateboarding",
+                "Eating snacks"
+            ],
+            "friends": [
+                "Shinnosuke Nohara",
+                "Kazama",
+                "Nene Sakurada",
+                "Masao Sato",
+                "Ai Suotome"
+            ],
+            "image": "/images/bo.webp"
+        },
+        {
+            "name": "Ai Suotome",
+            "age": "5 years",
+            "description": "Ai is a new student who joins Shinchan's class later in the series. She is born in New York and is from an extremely rich family. She is always seen riding in a black limousine and with a bodyguard. She is very manipulative and purposely bends people to her will just because she can. she fell in love with Shinchan and being the manipulator she is, uses his weaknesses (Action Mask, Chocobi, etc.) to get him to notice her.",
+            "hobbies": [
+                "Reading",
+                "Watching dramas"
+            ],
+            "friends": [
+                "Shinnosuke Nohara",
+                "Kazama",
+                "Nene Sakurada",
+                "Masao Sato",
+                "Bo Suzuki"
+            ],
+            "image": "/images/ai.jpg"
+        },
+        {
+            "name": "Midori Ishizaka",
+            "description": "She is a 24 years old teacher in Sunflower class. Yoshinaga is her maiden name. She is always in bitter rivalry with Ume Matsuzaka and they get into bickerings and arguments over little things. However she takes care of Matsuzaka too. She does not have a good relationship with Shin-chan, which is one of her students. She's someone who gets annoyed at even a glance of Shin-chan and she's always running away from him. She thinks if he's around then everything will be ruined. She's very obnoxious and thinks that she's the most beautiful.",
+            "image": "/images/yoshinaga.webp"
+        },
+        {
+            "name": "Ume Matsuzaka",
+            "age": "24 years",
+            "description": "Ume is a teacher in Shinchan's school and she is single. She likes to live stylishly in public but she actually struggles to save her money for accessories and lives in a very cheap, dusty apartment.",
+            "hobbies": [
+                "Shopping"
+            ],
+            "image": "/images/ume.jpeg"
+        },
+        {
+            "name": "Nanako Ohara",
+            "description": "Nanako is a 20 years old college girl with whom Shinchan is in love. Nanako is the only girl that is unruffled by Shin-chan's behavior, and the only one Shinchan tries to behave for, even being shy and blushing around her. She dreams of being a kindergarten teacher.",
+            "image": "/images/nanako.webp"
+        },
+        {
+            "name": "Action Kamen",
+            "description": "Action Kamen is Shinchan's favorite superhero. He is a masked hero who fights evil and protects the innocent. Shinchan is a huge fan of Action Kamen and often imitates him in his imaginative play.",
+            "powers": [
+                "Super strength",
+                "Fighting skills",
+                "High-tech gadgets"
+            ],
+            "image": "/images/actionkamen.webp"
+        },
+        {
+            "name": "Buriburizaemon",
+            "description": "Buriburizaemon is a quirky and fun-loving alien that came to Earth from planet Buri Buri. He has a unique appearance and often appears in Shinchan's dreams or during imaginary adventures.",
+            "powers": [
+                "Shape-shifting",
+                "Teleportation"
+            ],
+            "image": "/images/buriburizaemon.webp"
+        }
+    ]
+}
